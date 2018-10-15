@@ -13,5 +13,6 @@
 
 int main(void) {
 	printf("my name is KWJ");
+	printf("SHJ, PJM\n\n\n");
 	return EXIT_SUCCESS;
 }
